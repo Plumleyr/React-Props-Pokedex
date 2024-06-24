@@ -1,0 +1,20 @@
+.pokecard-pokemon{
+    margin: 20px;
+    width: 150px;
+}
+
+.pokecard-name{
+    color: blue;
+}
+
+li{
+    list-style:none;
+    text-align: center;
+    background-color: lightgray;
+    width: 150px;
+    border-radius: 12px;
+}
+
+li > p {
+    margin: 5px 0;
+}
